@@ -1,7 +1,5 @@
 # Air Canvas – Hand Gesture Drawing App
 
-**Creator:** sforslime
-
 Air Canvas turns your webcam into an invisible paintbrush. Wave your hand in mid-air and watch smooth digital ink appear in real time, powered by OpenCV for video capture and MediaPipe Hands for landmark tracking.
 
 ## Features
